@@ -1,16 +1,19 @@
 # 1- Creación y navegación de ramas
 
 Objetivo: Practicar la creación de ramas, cambio entre ellas y fusión.
+
 Pasos:
-a) Crea un nuevo repositorio con git init
-b) Crea un archivo README.md y haz el commit inicial
-c) Crea una nueva rama llamada "feature-1"
-d) Cambia a la rama "feature-1"
-e) Modifica README.md y haz un commit con mensaje "añadiendo rama feature-1"
-f) Vuelve a la rama master
-g) Fusiona "feature-1" en master
-h) Elimina la rama "feature-1"
-Comandos a utilizar: git init, git add, git commit, git branch, git checkout, git merge, git branch -d
+
+* [ ] Crea un nuevo repositorio con git init
+* [ ] Crea un archivo README.md y haz el commit inicial
+* [ ] Crea una nueva rama llamada "feature-1"
+* [ ] Cambia a la rama "feature-1"
+* [ ] Modifica README.md y haz un commit con mensaje "añadiendo rama feature-1"
+* [ ] Vuelve a la rama master
+* [ ] Fusiona "feature-1" en master
+* [ ] Elimina la rama "feature-1"
+
+  Comandos a utilizar: git init, git add, git commit, git branch, git checkout, git merge, git branch -d
 
 # 2- Trabajo con repositorios remotos
 
