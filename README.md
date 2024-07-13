@@ -6,7 +6,7 @@ a) Crea un nuevo repositorio con git init
 b) Crea un archivo README.md y haz el commit inicial
 c) Crea una nueva rama llamada "feature-1"
 d) Cambia a la rama "feature-1"
-e) Modifica README.md y haz un commit
+e) Modifica README.md y haz un commit con mensaje "añadiendo rama feature-1"
 f) Vuelve a la rama master
 g) Fusiona "feature-1" en master
 h) Elimina la rama "feature-1"
